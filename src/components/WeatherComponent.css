@@ -1,0 +1,22 @@
+.Weather {
+  display: flex;
+  align-items: center;
+}
+.Weather select {
+  padding: 10px;
+}
+.Weather .result {
+  display: flex;
+  margin-left: 20px;
+}
+.Weather .result span {
+  display: flex;
+  align-items: center;
+  margin-left: 10px;
+}
+.Weather .result img {
+  display: inline-block;
+  width: 32px;
+  height: 32px;
+  margin-right: 4px;
+}
